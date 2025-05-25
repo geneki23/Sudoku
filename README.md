@@ -281,39 +281,7 @@ Las pruebas unitarias verifican:
 
 ![image](https://github.com/user-attachments/assets/d259576d-d90f-44cd-a7ca-6f6791f1eddd)
 
-<span class="success">[INFO]</span> Ejecutando validación de tablero completo...
-<span class="success">[PASS]</span> Tablero generado con éxito - 9x9 celdas
-<span class="success">[PASS]</span> Validación de filas: OK (sin duplicados)
-<span class="success">[PASS]</span> Validación de columnas: OK (sin duplicados)  
-<span class="success">[PASS]</span> Validación de subcuadrículas: OK (sin duplicados)
-<span class="success">[PASS]</span> Rango de valores: OK (1-9)
-                </div>
-            </div>
-            <div class="test-method">
-                ✅ <strong>testVaciarCeldasCantidadEsperada()</strong><br>
-                <small>Verifica que se vacíe aproximadamente el número correcto de celdas</small>
-                <div class="console-output">
-<span class="success">[INFO]</span> Probando vaciado de 40 celdas...
-<span class="success">[PASS]</span> Celdas vacías resultantes: 38-42 (dentro del rango esperado)
-<span class="success">[PASS]</span> Tablero mantiene solución única
-                </div>
-            </div>
-            <div class="coverage-bar">
-                <div class="coverage-fill" style="width: 75%;">75% Cobertura</div>
-            </div>
-        </div>
 
-        <div class="test-result passed">
-            <div class="test-class">SudokuTest</div>
-            <div class="test-method">
-                ✅ <strong>testGenerarTableroFacil()</strong><br>
-                <small>Verifica la generación correcta del nivel fácil</small>
-            </div>
-            <div class="test-method">
-                ✅ <strong>testColocarNumeroEnCeldaFija()</strong><br>
-                <small>Verifica que las celdas fijas no puedan ser modificadas</small>
-            </div>
-            <div class="test-
 
 ## 6. Manual de Usuario
 
